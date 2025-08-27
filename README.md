@@ -8,7 +8,7 @@ For learning Full-Code development refer to this [Learn Agentic AI](https://gith
 
 ## What is n8n?
 
-![](/ai-n8n.png)
+![](./assets/ai-n8n.png)
 
 **n8n** (pronounced “n-eight-n”) is an open‑source workflow automation, Agentic AI, and orchestration platform. It lets you build AI Agents and connect APIs, databases, and services with a visual, node‑based editor, while still giving you the power to drop into code when you need it. For agentic AI, that combination—**no‑code orchestration with just‑enough code**—makes n8n an ideal control plane for prototyping and building systems that can **perceive, plan, and act** across tools.
 
@@ -18,7 +18,7 @@ For learning Full-Code development refer to this [Learn Agentic AI](https://gith
 
 ## What are AI Agents?
 
-![](agent.png)
+![](./assets/agent.png)
 
 An AI agent is a system that doesn’t just answer a prompt—it **perceives, decides, and acts** toward a goal, often over multiple steps and with tools.
 
@@ -86,7 +86,7 @@ Here’s a clear, beginner-friendly way to see **n8n as an agentic AI platform**
 
 ## No-Code, Low-code, and Full-code
 
-![](compare.jpg)
+![](./assets/compare.jpg)
 
 Agentic AI platforms can be introduced as a continuum—**no-code**, **low-code**, and **full-code**—that aligns delivery speed with architectural control as solutions mature. **No-code** platforms provide visual builders, templates, and managed connectors so non-developers can assemble agent workflows quickly and safely. **Low-code** platforms retain a visual canvas but add programmable “escape hatches” (custom logic, APIs, components) to handle real-world variability while preserving rapid iteration for internal tools and orchestration. **Full-code** platforms expose full SDKs and runtime control, enabling engineers to implement bespoke agent behaviors, enforce testing and observability, integrate with existing services, and meet performance, security, and compliance requirements. A pragmatic adoption path for developers is to ideate in low-code for fastest validation and prototying,and graduate the durable or business-critical workloads to full-code for long-term reliability and scale.
 
