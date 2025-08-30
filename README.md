@@ -1,6 +1,10 @@
 # Agentic AI Development with Low-Code n8n and Model Context Protocol (MCP)
 
-[Class YouTube Videos](https://www.youtube.com/playlist?list=PL0vKVrkG4hWq5T6yqCtUL7ol9rDuEyzBH)
+Class YouTube Videos
+
+```
+https://www.youtube.com/playlist?list=PL0vKVrkG4hWq5T6yqCtUL7ol9rDuEyzBH
+```
 
 This repo is part of the [Panaversity Certified Agentic & Robotic AI Engineer](https://panaversity.org/) program. You can also review the certification and course details in the [program guide](https://docs.google.com/document/d/1BygAckkfc_NFQnTfEM6qqUvPdlIHpNItmRtvfRMGp38/edit?usp=sharing). This repo provides learning material for n8n course and certification.
 
@@ -12,9 +16,17 @@ For learning Full-Code development refer to this [Learn Agentic AI](https://gith
 
 **n8n** (pronounced “n-eight-n”) is an open‑source workflow automation, Agentic AI, and orchestration platform. It lets you build AI Agents and connect APIs, databases, and services with a visual, node‑based editor, while still giving you the power to drop into code when you need it. For agentic AI, that combination—**no‑code orchestration with just‑enough code**—makes n8n an ideal control plane for prototyping and building systems that can **perceive, plan, and act** across tools.
 
-[N8n Raises $2.3 Billion in Four Months, Valuation Exponentially Increases](https://www.ainvest.com/news/n8n-raises-2-3-billion-months-valuation-exponentially-increases-2508/)
+[N8n Raises $2.3 Billion in Four Months, Valuation Exponentially Increases
 
-[n8n vs Python Agentic Frameworks](https://chatgpt.com/share/689ca2f2-1c88-8001-8721-3682c1ca8244)
+```
+https://www.ainvest.com/news/n8n-raises-2-3-billion-months-valuation-exponentially-increases-2508/
+```
+
+n8n vs Python Agentic Frameworks
+
+```
+https://chatgpt.com/share/689ca2f2-1c88-8001-8721-3682c1ca8244
+```
 
 ## What are AI Agents?
 
