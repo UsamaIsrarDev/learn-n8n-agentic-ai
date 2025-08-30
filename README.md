@@ -34,7 +34,11 @@ https://chatgpt.com/share/689ca2f2-1c88-8001-8721-3682c1ca8244
 
 An AI agent is a system that doesn’t just answer a prompt—it **perceives, decides, and acts** toward a goal, often over multiple steps and with tools.
 
-[Gartner’s Top 10 Tech Trends Of 2025: Agentic AI and Beyond](https://www.productiveedge.com/blog/gartners-top-10-tech-trends-of-2025-agentic-ai-and-beyond)
+Gartner’s Top 10 Tech Trends Of 2025: Agentic AI and Beyond
+
+```
+https://www.productiveedge.com/blog/gartners-top-10-tech-trends-of-2025-agentic-ai-and-beyond
+```
 
 # The idea in one line
 
