@@ -1,4 +1,4 @@
-Class 05 : Started with code expression
+Class 05
 
 # Low-Code & No-Code Full Stack + N8N Expressions Guide
 
