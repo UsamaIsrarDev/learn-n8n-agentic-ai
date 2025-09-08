@@ -1,22 +1,22 @@
-Class 05
+Class 05 : Started with code expression
 
-# Low-Code & No-Code Full Stack + N8N Expressions Guide
+# 📘 Low-Code & No-Code Full Stack + N8N Expressions Guide
 
-## Overview
+## 🔑 Overview
 
 This document explains **No-Code vs Low-Code**, **N8N workflows**, **Full Stack concepts**, and practical details about **Expressions, Data Types, JSON, and Workflow Automation**.  
 It also includes **exams, certifications, and learning paths** for students.
 
 ---
 
-## No-Code vs Low-Code
+## 🚀 No-Code vs Low-Code
 
 - **No-Code** → Fully drag & drop, no coding required.
 - **Low-Code** → Drag & drop + ability to write custom code (JavaScript/Python).
 
 ---
 
-## N8N (Low-Code Automation Platform)
+## ⚡ N8N (Low-Code Automation Platform)
 
 - Build workflows with drag & drop.
 - Write **JavaScript expressions** inside nodes for custom logic.
